@@ -1,0 +1,100 @@
+body {
+  min-width: 960px;
+}
+
+/* `Container
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+
+
+*{
+	box-sizing:border-box;
+}
+.container_12{
+	background-color:		
+}
+.bannerimg
+{
+	width:200px;
+}
+.banner 
+{
+	font-family:"Book Antiqua";
+	font-size:xx-large;
+	color:#FFFFFF;
+	letter-spacing: 4px;
+	background-color:maroon;
+	width:90%;
+	text-align:right; 
+	
+}
+
+.menu{
+	padding:10px;
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align:center;
+	background-color:black;
+}
+.menu a{
+	color:white;
+	padding:20px;
+	font-size:18px;
+	text-transform:uppercase;
+	text-decoration:none;
+}
+
+
+table{
+	bordetr-spacing:20px;
+}
+
+.about_p{
+	
+	background-color:maroon;
+	color:white;
+	border-style:dashed;
+	text-align:center;
+	height:250px;
+	font-size:20px;
+}
+.contact_input{
+	width:60%;
+	height:35px;
+	margin-left:150px;
+	margin-bottom:25px;
+	
+}
+
+
+
+.footer_left{
+	background-color:black;
+	float:left;
+	width:50%;
+	height:200px;
+	color:white;
+	padding-left:20px;
+}
+.footer_left a{
+	color:white;
+}
+
+.footer_right{
+	background-color:black;
+	float:left;
+	width:50%;
+	height:200px;
+	color:white;
+	padding-left:150px;
+}
+	
+}
+.footer_right a{
+	color:white;
+}

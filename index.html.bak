@@ -1,0 +1,67 @@
+<html>
+	<head>
+		<title>Online Food Order</title>
+		
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+	<div class="container_12">
+			<table>
+			<tr>
+			<td class="bannerimg"><img src="image/logo.jpg"></td>
+			<td class="banner">Punjabi Food Corner</td>
+			</tr>
+			</table>
+			
+		<a href="login.html">Login In</a>
+		<div class="menu">
+				<a href="index.html">Home</a>
+				<a href="#">Food List</a>
+				<a href="#">Your Order</a>
+				<a href="help.html">Help and Support</a>
+				<a href="about_us.html">About Us</a>
+				<a href="contact.html">Contact us</a>
+			</div>
+		</div>
+		<div class="container_12">
+			<table style="border-spacing:20px;border-style:dashed"> 
+				<tr>
+				<td><img src="image/img1.jpg"></td>
+				<td><img src="image/img1.jpg"></td>
+				<td><img src="image/img3.jpg"></td>
+				</tr>
+				<tr>
+				<td><img src="image/img6.jpg"></td>
+				<td><img src="image/img4.jpg"></td>
+				<td><img src="image/img17.jpg"> </td>
+				</tr>
+				<tr>
+				<td><img src="image/img9.jpg"></td>
+				<td><img src="image/img10.jpg"></td>
+				<td><img src="image/img11.jpg"> </td>
+
+
+				</tr>
+				</table>
+
+		</div>
+		
+
+
+
+		<div class="container_12">
+			<div class="footer_left">
+				<h2>EXPLORE</h2>
+				</p><a href="about.html">About Us</a></p>
+				<p><a href="contact.html">Help and Support</a></p>
+				
+			</div>
+			<div class="footer_right">
+				<a href="https://goo.gl/maps/BuNaVnfQTFrfYxX57"><img src="image/location.png" height="50px" width="50px" title="location" alt="location"  /></a><br>
+				<a href="https://youtube.com/channel/UC8eD4UXNxrqsEqc_CdD4PSQ"><img src="image/youtube.png" height="70px" width="80px" title="youtube" alt="youtube" class="image_logo"/></a></br>
+				<a href="https://www.instagram.com/valay_khade/"><img src="image/instagram.png" height="40px" width="40px" title="instagram" alt="instagram" /></a>
+				
+			</div>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,51 @@
+<html>
+	<head>
+		<title>Online Food Order</title>
+		<link rel="stylesheet" href="css/960.css" />
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+	<div class="container_12">
+			<table>
+			<tr>
+			<td class="bannerimg"><img src="image/logo.jpg"></td>
+			<td class="banner">Punjabi Food Corner</td>
+			</tr>
+			</table>
+			
+		<a href="login.html">Login In</a>
+		<div class="menu">
+				<a href="index.html">Home</a>
+				<a href="#">Food List</a>
+				<a href="#">Your Order</a>
+				<a href="help.html">Help and Support</a>
+				<a href="about_us.html">About Us</a>
+				<a href="contact.html">Contact us</a>
+				</div>
+		</div>
+		<div class="container_12">
+			<h1>About Us</h1>
+			
+			
+			<p class="about_p">Online food ordering is the process of ordering food, for delivery or pickup, from a website or other application. The product can be either ready-to-eat food (e.g., direct from a home-kitchen, restaurant, or a virtual restaurant) or food that has not been specially prepared for direct consumption (e.g., vegetables direct from a farm/garden, fruits, frozen meats. etc).</p>
+		</div>
+		
+
+
+
+		<div class="container_12">
+			<div class="footer_left">
+				<h2>EXPLORE</h2>
+				</p><a href="about.html">About Us</a></p>
+				<p><a href="contact.html">Help and Support</a></p>
+				
+			</div>
+			<div class="footer_right">
+				<a href="https://goo.gl/maps/iB9DoaZNQ119AKiz6"><img src="image/location.png" height="50px" width="50px" title="location" alt="location"  /></a><br>
+				<a href="https://youtube.com/channel/UC8eD4UXNxrqsEqc_CdD4PSQ"><img src="image/youtube.png" height="70px" width="80px" title="youtube" alt="youtube" class="image_logo"/></a></br>
+				<a href="https://www.instagram.com/valay_khade/"><img src="image/instagram.png" height="40px" width="40px" title="instagram" alt="instagram" /></a>
+				
+			</div>
+		</div>
+	</body>
+</html>
